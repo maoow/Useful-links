@@ -1,5 +1,5 @@
-# Usefull-Links
-Some usefull links.
+# Useful-Links
+Some useful links.
 # __________________________________________________________________
 
 ## Git
