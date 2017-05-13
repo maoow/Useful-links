@@ -7,9 +7,10 @@
     https://www.atlassian.com/git/tutorials/comparing-workflows
 
 ## Web
-    https://www.grafikart.fr/tutoriels
-    ### Web-Security
-    https://phpdelusions.net/sql_injection#dontpanic
+        https://www.grafikart.fr/tutoriels
+        https://secure.php.net/manual/fr/index.php
+### Web-Security
+        https://phpdelusions.net/sql_injection#dontpanic
 
 ## Vim
     http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/
