@@ -39,3 +39,21 @@ http://romainl.github.io/the-patient-vimmer/
 https://sanctum.geek.nz/arabesque/advanced-vim-macros/
 
 https://sanctum.geek.nz/arabesque/vim-filename-completion/
+
+
+## Linux
+
+### Kernel
+
+https://kernelnewbies.org/
+
+https://www.wiki.kernel.org/
+
+http://www.tldp.org/HOWTO/Module-HOWTO/index.html
+
+http://pficheux.free.fr/articles/lmf/drivers/
+
+http://free-electrons.com/doc/training/linux-kernel/linux-kernel-slides.pdf
+
+https://www.kernel.org/doc/html/latest/process/stable-api-nonsense.html
+
